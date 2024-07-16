@@ -1,0 +1,7 @@
+{
+    "require": {
+        "react/event-loop": "^1.5",
+        "cboden/ratchet": "^0.4.4",
+        "guzzlehttp/psr7": "^2.6"
+    }
+}

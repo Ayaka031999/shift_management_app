@@ -1,0 +1,123 @@
+
+
+html{
+  font-family: "游ゴシック","Yu Gothic"; 
+  font-weight: bold;
+}
+
+body {
+  /* font-family: Arial, sans-serif;  */
+  /* font-family: "游ゴシック","Yu Gothic"; 
+  font-weight: bold; */
+  box-sizing: border-box; 
+  max-width: 1700px;
+  max-height: 500px; 
+  overflow: hidden;
+    margin: 0 auto;
+}
+body * {
+  box-sizing: inherit;
+}
+
+
+
+
+
+
+header {
+  /* position: fixed;  */
+  width: 100%; 
+  top: 0;
+  left: 0;
+  background-color: #99d8fd	; /* ヘッダーの背景色 */
+  margin: 0;
+  padding: 0 10px;
+  text-align: left;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  /* -webkit-border-radius: 0 0 35px 35px;
+  border-radius: 0 0 35px 35px; */
+}
+
+.main_title{
+  color: rgba(0, 0, 0, 0.705); /* メニューのテキスト色 */
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /* background-color: chocolate; */
+  /* background-color: #99d8fd; */
+  display: flex;
+  justify-content: center;
+}
+
+li {  
+  float: left;
+  border-left: 1px solid #333;
+}
+
+
+li a {
+  display: block;
+  color: rgba(0, 0, 0, 0.705);
+  text-align: center;
+  margin: 0;
+  padding: 30px 10px;
+  text-decoration: none;
+  bottom: 0;
+}
+li a:hover {
+  background-color: rgb(250, 251, 254);
+}
+
+
+input{
+  text-align: center;
+  max-width: 80px;
+}
+
+
+
+
+/* フォームの初期状態 */
+.form-container {
+  display: none; /* 初期状態では非表示 */
+  position: absolute; /* 絶対位置指定 */
+  background-color: #ffffff; /* フォームの背景色 */
+  padding: 10px; /* フォームの余白 */
+  border: 1px solid #ddd; /* フォームのボーダー */
+  z-index: 1000; /* z-indexの値を調整して最前面に表示 */
+}
+
+.highlight {
+    background-color: #FFFF99;
+    /* background-color: #ffc7c7; */
+
+}
+
+.cellID {
+    /* visibility: hidden; */
+    color: transparent;
+    /* または color: transparent; */
+}
+
+
+/* .separator {
+  height: 1px;
+  background-color: #fff;
+  width: 100%;
+} */
+
+
+
+

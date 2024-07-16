@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    -webkit-font-family: "游ゴシック","Yu Gothic"; 
+    font-family: "游ゴシック","Yu Gothic"; 
+    font-weight: bold;  
+}
+  
+h1 {
+  color: rgba(0, 0, 0, 0.705); /* メニューのテキスト色 */
+  margin: 0;
+}
+
+.shift_table{
+  border-collapse: collapse;
+  /* border-collapse: collapse; */
+  width: 100%;
+  /* border: 1px solid #333; */
+  /*コレ*/
+  padding: 10px;
+  background: #fff;
+}
+
+.shift_table th, td {
+  border: 1px solid black;
+
+  /* border: 1px solid black; */
+  /* padding: 8px; */
+  text-align: center;
+}
+
+.shift_table th {
+  /* border: 1px solid black; */
+
+  background-color: rgb(179, 219, 255);
+}
+
+.shift-cell {
+  background-color: lightgreen; /* シフトがあるセルの背景色 */
+}
+
+.my-cell {
+  background-color: #FFCCCC; /* シフトがあるセルの背景色 */
+}
+
+

@@ -1,0 +1,74 @@
+html{
+  font-family: "游ゴシック","Yu Gothic"; 
+  -webkit-font-family: "游ゴシック","Yu Gothic"; 
+
+}
+
+
+body {
+  -webkit-font-family: "游ゴシック","Yu Gothic"; 
+  font-family: "游ゴシック","Yu Gothic"; 
+  font-weight: bold;  
+  margin: 0 auto;
+  }
+
+  header {
+
+    padding: 0 30px;
+
+    -webkit-font-family: "游ゴシック","Yu Gothic"; 
+    font-family: "游ゴシック","Yu Gothic";  
+    /* background-color: rgb(255, 161, 127);  */
+     background-color: #99d8fd	;/* ヘッダーの背景色  #99d8fd*/
+    /* padding: 15px; */
+    text-align: left;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    -webkit-align-items: center;
+    align-items: center;
+    /* -webkit-border-bottom-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    -webkit-border-bottom-right-radius: 40px;
+    border-bottom-right-radius: 40px; */
+  }
+  
+  h1 {
+    color: rgba(0, 0, 0, 0.705); /* メニューのテキスト色 */
+    margin: 0;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: chocolate; */
+    /* background-color: #99d8fd; */
+    display: flex;
+    justify-content: center;
+  }
+
+  li {  
+    float: left;
+    border-left: 1px solid #333;
+  }
+  
+  
+  li a {
+    display: block;
+    color: rgba(0, 0, 0, 0.705);
+    text-align: center;
+    margin: 0;
+    padding: 30px 30px;
+    text-decoration: none;
+    bottom: 0;
+  }
+  li a:hover {
+    background-color: rgb(250, 251, 254);
+  }
+  
+
+/* rgb(126, 182, 182); */
+

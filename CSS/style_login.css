@@ -1,0 +1,55 @@
+ body {
+   /* -webkit-font-family: "游ゴシック","Yu Gothic";  */
+   font-family: "游ゴシック", "Yu Gothic";
+   font-weight: bold;
+ }
+
+ /*img{
+    width: 100%;
+  }*/
+
+ h1 {
+   color: rgba(0, 0, 0, 0.705);
+   /* メニューのテキスト色 */
+ }
+
+ label {
+   display: inline-block;
+   text-align: right;
+   width: 150px;
+   color: rgba(0, 0, 0, 0.705);
+ }
+
+ input {
+   border-radius: 100em;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
+   border-color: rgba(0, 0, 0, 0.705);
+   border-style: solid;
+ }
+
+
+
+
+
+
+ /* p{
+    background-color: black;
+    color: white;
+  }
+  
+  @media screen and (max-width: 768px) {
+    p{
+        background-color: black;
+         color:green;
+     }
+  }
+  
+  @media screen and (max-width: 480px) {
+    p{
+        background-color: black;
+         color:red;
+     }
+  } */

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    html {
+        font-family: "游ゴシック", "Yu Gothic";
+        -webkit-font-family: "游ゴシック", "Yu Gothic";
+        font-weight: bold;
+        font-size: 15px;
+        margin: 0px;
+        padding: 0px;
+        /* overflow: hidden; */
+        /* display: inline-block; */
+
+    }
+
+
+    img {
+        transform: scale(0.5);
+    }
+
+    .container {
+        height: 80px;
+        display: flex;
+        align-items: center;
+        /* 要素を垂直方向に中央揃え */
+    }
+
+    .container p {
+        color: rgba(0, 0, 0, 0.705);
+        font-size: 17px;
+        margin: 0px;
+        padding: 0px;
+    }
+
+
+
+    .container img {
+        width: 100px;
+        /* 画像の幅を指定 */
+        height: auto;
+        /* 高さは自動調整 */
+        margin: 0px;
+        padding: 0px;
+        /* 画像とテキストの間隔 */
+    }
+
+    .max_div{
+        width: 600px;
+        height: 400px;
+    }
+</style>
+
+<body>
+    <div align="center" class="max_div">
+        <!-- <button id=btn>ポップアップ！</button>
+        <br><br>
+        <button id=btn2>await ポップアップ！</button>
+
+        <script type="module">
+            import { PopupAlert } from "./popup-alert.js";
+
+            btn.onclick = () => PopupAlert.show("やほー！");
+
+            // btn2.onclick = async () => {
+            //     await PopupAlert.show("await やほー！");
+            //     alert("ネイティブアラート after PopupAlert")
+            // };
+
+        </script>
+
+        <style>
+            @import "popup-alert.css";
+        </style> -->
+
+
+
+
+        <h2 style="margin:0px;">シフトカレンダーの見方</h2>
+        <div class="container">
+            <img src="../画像/exシフト入ってるとき.png">
+            <p>自分が入っているシフトの日付は背景が赤くなっています。</p>
+        </div>
+
+        <div class="container">
+            <img src="../画像/exシフト足りないとき.png">
+            <p>人数が不足している日付の文字は<span style="color: red;">赤く</span>なっています。</p>
+        </div>
+
+        <div class="container">
+            <img src="../画像/exシフト足りてるとき.png">
+            <p>人数が足りている日付の文字は<span style="color: black;">黒く</span>なっています。</p>
+        </div>
+        <p style="margin:0px; padding: 0px; font-size: 17px;">日付の数字をクリックすると、シフトを入力できる画面に遷移します。<br></p>
+    </div>
+</body>
+
+</html>

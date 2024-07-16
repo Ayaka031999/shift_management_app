@@ -1,0 +1,90 @@
+
+
+html{
+  font-family: "游ゴシック","Yu Gothic"; font-weight: bold;
+}
+
+
+body {
+    margin: 0;
+    -webkit-font-family: "游ゴシック","Yu Gothic"; 
+    font-family: "游ゴシック","Yu Gothic"; 
+    font-weight: bold;  
+  }
+
+  header {
+    -webkit-font-family: "游ゴシック","Yu Gothic"; 
+    font-family: "游ゴシック","Yu Gothic"; 
+    font-weight: bold;  
+    background-color: #99d8fd	; /* ヘッダーの背景色 */
+    padding: 15px;
+    text-align: left;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+    -webkit-border-radius: 0 0 35px 35px;
+    border-radius: 0 0 35px 35px;
+    }
+  
+  h1 {
+    color: rgba(0, 0, 0, 0.705); /* メニューのテキスト色 */
+    margin: 0;
+  }
+  
+  
+  .menu {
+    list-style: none;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #99d8fd	; /* メニューの背景色 */
+    padding: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .menu-item {
+    margin: 0 10px;
+    position: relative;
+  }
+  
+  .menu-link {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.705); /* メニューのテキスト色 */
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 3px 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .menu-link:hover  {
+    background-color: #f3f1eb; /* ホバー時の背景色 */
+  }
+  
+
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    /* セルの横幅を狭くする */
+    max-width: 125px; /* 例：最大幅50px */
+    /* overflow: hidden; 最大幅を超えた内容を隠す */
+    white-space: nowrap; /* テキストを折り返さないようにする */
+}
+
+input{
+    text-align: center;
+    max-width: 125px;
+}

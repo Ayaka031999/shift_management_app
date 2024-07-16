@@ -1,0 +1,1921 @@
+Array
+(
+    [content] => {"userID":"2020","name":"横浜流星","message":"あああああ","date":"2024-3-27 16:10:2","currentID":1}
+    [id] => 1
+)
+
+Array
+(
+    [content] => {"userID":"1010","name":"中村倫也","message":"おおおおお","date":"2024-3-27 16:10:7","currentID":1}
+    [id] => 1
+)
+
+Array
+(
+    [content] => {"userID":"2020","name":"横浜流星","message":"あああああ","date":"2024-3-27 16:15:1","currentID":1}
+    [id] => 1
+)
+
+Array
+(
+    [userID] => 2020
+    [name] => 横浜流星
+    [message] => あああ
+    [date] => 2024-3-27 16:22:47
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 2020
+    [name] => 横浜流星
+    [message] => こんにちは、今日はお日柄も良く
+    [date] => 2024-3-27 16:25:21
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 2020
+    [name] => 横浜流星
+    [message] => いちのせうるはさん
+    [date] => 2024-3-27 16:29:53
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => こんにちはー
+    [date] => 2024-3-28 9:15:20
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => お元気ですかー？
+    [date] => 2024-3-28 9:17:41
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => こんにちはー
+    [date] => 2024-3-28 9:20:23
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => おはようー
+    [date] => 2024-3-28 9:23:55
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => こんばんはー
+    [date] => 2024-3-28 9:25:19
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => おは０
+    [date] => 2024-3-28 9:27:45
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => ああああああ
+    [date] => 2024-3-28 9:28:42
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => おおお
+    [date] => 2024-3-28 9:30:4
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => おお
+    [date] => 2024-3-28 9:30:22
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あああ
+    [date] => 2024-3-28 9:30:53
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あああ
+    [date] => 2024-3-28 9:36:28
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あああ
+    [date] => 2024-3-28 9:37:22
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => ああ
+    [date] => 2024-3-28 9:39:22
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => ああ
+    [date] => 2024-3-28 9:41:31
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaaa
+    [date] => 2024-3-28 9:46:53
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => おはよう
+    [date] => 2024-3-28 9:47:8
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あああ
+    [date] => 2024-3-28 9:50:15
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => いいいい
+    [date] => 2024-3-28 9:50:25
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あああ
+    [date] => 2024-3-28 9:54:38
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あああ
+    [date] => 2024-3-28 9:54:44
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あああ
+    [date] => 2024-3-28 10:15:57
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あああ
+    [date] => 2024-3-28 10:16:8
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => おおおお
+    [date] => 2024-3-28 10:18:22
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => おおおお
+    [date] => 2024-3-28 10:26:45
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あああ
+    [date] => 2024-3-28 10:26:53
+    [currentID] => 1
+)
+
+
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あああ
+    [date] => 2024-3-28 10:28:23
+    [currentID] => 1
+)
+
+
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あああ
+    [date] => 2024-3-28 10:31:36
+    [currentID] => 1
+)
+
+
+
+
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あああ
+    [date] => 2024-3-28 10:47:3
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あああ
+    [date] => 2024-3-28 10:54:30
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => ああ」
+    [date] => 2024-3-28 10:56:19
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-3-28 11:2:8
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-3-28 11:7:3
+    [currentID] => 1
+)
+
+
+
+
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => aaa
+    [date] => 2024-3-28 11:25:23
+    [currentID] => 1
+)
+
+
+
+
+
+
+
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => aaaa
+    [date] => 2024-3-28 11:33:6
+    [currentID] => 1
+)
+
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => aaaaa
+    [date] => 2024-3-28 11:33:39
+    [currentID] => 1
+)
+
+
+
+
+
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aa
+    [date] => 2024-3-28 11:44:51
+    [currentID] => 1
+)
+
+
+
+
+
+
+
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-28 11:51:34
+    [currentID] => 1
+)
+
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-28 11:51:54
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-28 11:51:56
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-28 11:51:57
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-28 11:51:57
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-28 11:51:57
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-28 11:51:58
+    [currentID] => 1
+)
+
+
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaaaa
+    [date] => 2024-3-28 11:52:33
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaaaa
+    [date] => 2024-3-28 11:52:35
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaaaa
+    [date] => 2024-3-28 11:52:36
+    [currentID] => 1
+)
+
+
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaaa
+    [date] => 2024-3-28 11:53:7
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaaa
+    [date] => 2024-3-28 11:53:8
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaaa
+    [date] => 2024-3-28 11:53:8
+    [currentID] => 1
+)
+
+
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => こんいちは
+    [date] => 2024-3-28 11:55:5
+    [currentID] => 1
+)
+
+
+
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => aaa
+    [date] => 2024-3-28 12:1:2
+    [currentID] => 1
+)
+
+
+
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-28 12:6:10
+    [currentID] => 1
+)
+
+
+
+
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-28 12:11:59
+    [currentID] => 1
+)
+
+
+
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-28 13:2:51
+    [currentID] => 1
+)
+
+
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-28 13:4:53
+    [currentID] => 1
+)
+
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-28 13:5:18
+    [currentID] => 1
+)
+
+
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-28 13:6:54
+    [currentID] => 1
+)
+
+
+
+
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => aaa
+    [date] => 2024-3-28 13:10:36
+    [currentID] => 1
+)
+
+
+
+
+
+
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => aa
+    [date] => 2024-3-28 13:24:25
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => aaa
+    [date] => 2024-3-28 13:28:36
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => uuu
+    [date] => 2024-3-28 13:28:41
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => qqqq
+    [date] => 2024-3-28 13:36:19
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-28 13:38:6
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => iii
+    [date] => 2024-3-28 13:38:9
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => おはよー
+    [date] => 2024-3-28 13:40:45
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => おはよー！
+    [date] => 2024-3-28 13:40:54
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => おっす
+    [date] => 2024-3-28 13:47:2
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => ういっす
+    [date] => 2024-3-28 13:47:7
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 123456
+    [name] => admin
+    [message] => aaaaa
+    [date] => 2024-3-28 14:28:10
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => おおおお
+    [date] => 2024-3-28 14:28:24
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 123456
+    [name] => admin
+    [message] => a
+    [date] => 2024-3-28 14:43:9
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 123456
+    [name] => admin
+    [message] => zzzzz
+    [date] => 2024-3-28 14:44:14
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => こんちくは
+    [date] => 2024-3-28 15:3:59
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => はははは
+    [date] => 2024-3-28 15:4:18
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-30 19:35:19
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aa
+    [date] => 2024-3-30 19:52:30
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaaa
+    [date] => 2024-3-30 19:52:36
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aa
+    [date] => 2024-3-30 19:58:39
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aa
+    [date] => 2024-3-30 19:58:42
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aa
+    [date] => 2024-3-30 19:58:48
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aa
+    [date] => 2024-3-30 19:58:51
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-30 19:59:24
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-30 21:7:16
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => z
+    [date] => 2024-3-30 21:9:33
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => z
+    [date] => 2024-3-30 21:10:16
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-3-30 21:10:20
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => z
+    [date] => 2024-3-30 21:11:57
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => z
+    [date] => 2024-3-30 21:12:0
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-3-30 21:24:48
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => ああ
+    [date] => 2024-3-30 21:27:31
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => ああああ
+    [date] => 2024-3-30 21:28:50
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => ああああ
+    [date] => 2024-3-30 21:28:50
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => ああああ
+    [date] => 2024-3-30 21:31:13
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => ああああ
+    [date] => 2024-3-30 21:33:1
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaaa
+    [date] => 2024-3-30 21:33:10
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaaa
+    [date] => 2024-3-30 21:33:14
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaaa
+    [date] => 2024-3-30 21:33:19
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-30 21:35:2
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-30 21:57:29
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-30 21:57:30
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-30 21:57:30
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-30 22:27:13
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-30 22:27:42
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-30 22:27:44
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => oha
+    [date] => 2024-3-30 22:27:49
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-3-30 22:28:0
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-3-30 22:28:2
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-3-30 22:28:3
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-3-30 22:28:3
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => oha
+    [date] => 2024-3-30 22:29:6
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-3-30 22:37:59
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-30 22:38:10
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-30 22:38:49
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-3-30 22:39:2
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-30 22:49:21
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    [date] => 2024-3-30 22:49:33
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    [date] => 2024-3-30 22:49:39
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-30 22:53:5
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-3-30 22:53:10
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-30 23:0:3
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-3-30 23:0:14
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => aaa
+    [date] => 2024-3-31 0:16:48
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-31 0:16:57
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-31 0:17:39
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-31 0:17:49
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-3-31 0:29:16
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-31 0:29:42
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-31 01:56:29
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-3-31 01:58:39
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-03-31 002:05:01
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-03-31 18:24:53
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-03-31 18:24:56
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-03-31 18:24:57
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-03-31 18:24:57
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-03-31 18:26:09
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-03-31 18:26:32
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-03-31 18:29:36
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-03-31 18:30:26
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => a
+    [date] => 2024-03-31 18:30:29
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => おは
+    [date] => 2024-03-31 18:30:35
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => おはみん
+    [date] => 2024-03-31 18:32:23
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => か
+    [date] => 2024-03-31 18:33:30
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => かき
+    [date] => 2024-03-31 18:34:38
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 18:40:07
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 18:41:55
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 18:42:29
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 18:42:57
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 18:43:18
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 18:51:36
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 18:52:09
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 18:52:51
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 18:58:29
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 18:58:42
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 18:58:47
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 18:58:52
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:02:05
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:02:24
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:03:17
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:08:40
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => ああ
+    [date] => 2024-03-31 19:09:09
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:13:28
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:14:16
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:16:03
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:16:32
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:16:42
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:34:01
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:34:21
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あああ
+    [date] => 2024-03-31 19:34:58
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:35:34
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:36:34
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:36:46
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:37:01
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:37:20
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:38:29
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:38:42
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:39:04
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:39:14
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:39:28
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:39:29
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:39:29
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:39:30
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:39:30
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 19:39:30
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 20:17:15
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => おおおお
+    [date] => 2024-03-31 20:17:19
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-03-31 20:20:48
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-03-31 20:43:04
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => こんちゃっす
+    [date] => 2024-04-01 14:52:16
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => おはっす
+    [date] => 2024-04-01 14:52:27
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-04-01 15:28:21
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-04-01 15:40:02
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-04-01 16:51:42
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あ
+    [date] => 2024-04-01 16:51:51
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 3030
+    [name] => ムロツヨシ
+    [message] => どうもー
+    [date] => 2024-04-01 17:02:53
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 6060
+    [name] => 志尊淳
+    [message] => あームロさん！
+    [date] => 2024-04-01 17:03:10
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => こんにちは
+    [date] => 2024-04-10 11:13:52
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 9090
+    [name] => あやか
+    [message] => はい!
+    [date] => 2024-04-10 11:15:17
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => 元気ですかー？
+    [date] => 2024-04-10 11:16:04
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 9090
+    [name] => あやか
+    [message] => はい!
+    [date] => 2024-04-10 11:16:16
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => あ
+    [date] => 2024-04-10 11:34:42
+    [currentID] => 1
+)
+
+Array
+(
+    [userID] => 1010
+    [name] => 中村倫也
+    [message] => ああ
+    [date] => 2024-04-10 11:49:00
+    [currentID] => 1
+)
+

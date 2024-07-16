@@ -1,0 +1,196 @@
+html {
+  -webkit-font-family: "游ゴシック", "Yu Gothic";
+  font-family: "游ゴシック", "Yu Gothic";
+}
+
+body {
+  margin: 0;
+  -webkit-font-family: "游ゴシック", "Yu Gothic";
+  font-family: "游ゴシック", "Yu Gothic";
+  font-weight: bold;
+}
+
+
+header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  /* background-color: rgb(255, 161, 127);  */
+  background-color: #99d8fd;
+  /* ヘッダーの背景色  #99d8fd*/
+  /* padding: 15px; */
+  text-align: left;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+
+  /* -webkit-border-bottom-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    -webkit-border-bottom-right-radius: 40px;
+    border-bottom-right-radius: 40px; */
+}
+
+h1 {
+  color: rgba(0, 0, 0, 0.705);
+  /* メニューのテキスト色 */
+  margin: 0;
+}
+
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /* background-color: chocolate; */
+  /* background-color: #99d8fd; */
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  float: left;
+  border-left: 1px solid #333;
+}
+
+
+li a {
+  display: block;
+  color: rgba(0, 0, 0, 0.705);
+  text-align: center;
+  margin: 0;
+  padding: 30px 30px;
+  text-decoration: none;
+  bottom: 0;
+}
+
+li a:hover {
+  background-color: rgb(250, 251, 254);
+}
+
+/* 丸くするためのスタイル */
+.rounded-image {
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  /* 丸みを持たせる */
+  overflow: hidden;
+  -webkit-overflow: hidden;
+
+  /* はみ出た部分を隠す */
+  width: 50px;
+  -webkit-width: 50px;
+
+  /* 画像のサイズを調整 */
+  height: 50px;
+  -webkit-height: 50px;
+
+  /* 画像のサイズを調整 */
+}
+
+#exit_btn {
+  border-style: solid 1px;
+  -webkit-border-style: solid 1px;
+
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+
+}
+
+
+/* .menu {
+    list-style: none;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #99d8fd	; /* メニューの背景色 
+    padding: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .menu-item {
+    margin: 0 20px;
+    position: relative;
+  }
+  
+  .menu-link {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.705); /* メニューのテキスト色 
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 3px 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .menu-item:hover  {
+    background-color: #f3f1eb; /* ホバー時の背景色 
+  } */
+
+.overflow-y2 {
+  /* overflow-y: scroll; */
+  height: 100%;
+  margin-top: 100px;
+  /* ヘッダーの高さと同じマージンを追加 */
+  padding: 20px;
+}
+
+.month_title {
+  display: block;
+  color: rgba(0, 0, 0, 0.705);
+  /* メニューのテキスト色 */
+}
+
+
+.shift_table {
+  border-collapse: collapse;
+  /* border-collapse: collapse; */
+  width: 80%;
+  /* border: 1px solid #333; */
+  padding: 10px;
+  background: #fff;
+}
+
+.shift_table th,
+td {
+  border: 1px solid black;
+
+  /* border: 1px solid black; */
+  /* padding: 8px; */
+  text-align: center;
+}
+
+.shift_table th {
+  /* border: 1px solid black; */
+
+  background-color: rgb(179, 219, 255);
+}
+
+
+.shift-cell {
+  background-color: lightgreen;
+  /* シフトがあるセルの背景色 */
+}
+
+.my-cell {
+  background-color: #FFCCCC; /* シフトがあるセルの背景色 */
+}
+
+
+/* #set{
+    margin-left: auto;
+    margin-right: 0;
+} */
+
+
+/* .list:nth-child(1) {
+    background-color:  #2196F3; /* 背景色指定 */
+/* 幅指定 */

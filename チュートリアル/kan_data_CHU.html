@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>全体シフトの見方</title>
+</head>
+
+<style>
+    html {
+        font-family: "游ゴシック", "Yu Gothic";
+        -webkit-font-family: "游ゴシック", "Yu Gothic";
+        font-weight: bold;
+        font-size: 15px;
+        margin: 0px;
+        padding: 0px;
+        /* overflow: hidden; */
+        /* display: inline-block; */
+
+    }
+
+
+    img {
+        /* transform: scale(0.5); */
+    }
+
+    .container {
+        height: 150px;
+        display: flex;
+        align-items: center;
+        margin: 10px 0px;
+        /* 要素を垂直方向に中央揃え */
+    }
+
+    .container p {
+        color: rgba(0, 0, 0, 0.705);
+        font-size: 17px;
+        margin: 0px;
+        padding: 0px;
+    }
+
+
+
+    .container img {
+        width: 100px;
+        height: auto;
+        margin: 0px;
+        padding: 0px; 
+    }
+
+    .max_div{
+        width: 600px;
+        height: 400px;
+    }
+</style>
+
+
+
+<body>
+    <div align="center" class="max_div">
+        <h2 style="margin:0px;">シフトカレンダーの見方</h2>
+        <div class="container">
+            <div><img src="../画像/ex_kanridata_新規登録.png"></div><br>
+            <p>プラスボタンからシフトを追加できます。</p>
+            <div><img src="../画像/ex_kanridata_データあり.png"></div><br>
+            <p>❌ボタンでシフトが削除できます。<br>📝ボタンでシフトを編集できます。</p>
+
+        </div>
+        <!-- <div class="container">
+        </div> -->
+
+        <div class="container">
+            <div><img src="../画像/exシフト足りてるとき.png"></div><br>
+            <p>日付のボタンをクリックすると、その日付の詳細が分かります。</p>
+        </div>
+
+        <!-- <div class="container">
+        </div> -->
+
+        <img src="../画像/ex_kanridata_フォーカス.png" style="width: 400px; height: 100px;">
+        <p>ユーザーIDと、日付を入力して、フォーカスするボタンをクリックすると、該当するセルにフォーカスできます。</p>
+
+
+        <div class="container">
+            <div><img src="../画像/ex_kanridata_日付ボタン.png"></div><br>
+            <p>日付の数字をクリックすると、シフトを入力できる画面に遷移します。</p>
+        </div>
+
+        <!-- <p style="margin:0px; padding: 0px; font-size: 17px;">日付の数字をクリックすると、シフトを入力できる画面に遷移します。<br></p> -->
+    </div>
+</body>
+
+</html>

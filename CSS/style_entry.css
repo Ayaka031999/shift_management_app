@@ -1,0 +1,82 @@
+html {
+  font-family: "游ゴシック", "Yu Gothic";
+  font-weight: bold;
+}
+
+h1 {
+  color: rgba(0, 0, 0, 0.705);
+  /* メニューのテキスト色 */
+
+}
+
+.entry {
+  text-align: center;
+}
+
+label {
+  display: inline-block;
+  text-align: right;
+  width: 150px;
+  color: rgba(0, 0, 0, 0.705);
+}
+
+
+/* 送信不可の時
+button#entry_btn.is-inactive {
+
+  font-family: "游ゴシック", "Yu Gothic";
+  font-weight: bold;
+
+  font-size: 20px;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  color: #999;
+  background-color: #ccc;
+  border-radius: 10px; 
+  border-style: none;
+  border-radius: 100em;
+
+  filter: drop-shadow(0px 2px 4px #ccc);
+
+
+  
+  pointer-events: none;
+}
+
+/* 送信可能な時 
+button#entry_btn.is-active {
+  font-family: "游ゴシック", "Yu Gothic";
+  font-weight: bold;
+
+  font-size: 20px;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  color: white;
+  background-color: deepskyblue;
+  border-radius: 10px; 
+  border-style: none;
+  border-radius: 100em;
+
+  filter: drop-shadow(0px 2px 4px #ccc);
+  transition: 0.3s ease-in-out;
+  font-weight: 600;
+
+  letter-spacing: 0.04rem;
+  pointer-events: auto;
+} */
+
+input {
+  margin: auto;
+  text-align: center;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 40px;
+  border-color: rgba(0, 0, 0, 0.705);
+  border-style: solid;
+}

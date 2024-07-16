@@ -1,0 +1,17 @@
+{
+    "name": "j315/kanri",
+    "description": "A PHP package for managing administrative tasks",
+    "autoload": {
+        "psr-4": {
+            "J315\\Kanri\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "skip"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.7"
+    }
+}
